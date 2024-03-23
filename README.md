@@ -9,12 +9,12 @@
 
 ###
 
-<h1 align="center"> Hello, stranger 👋</h1>
+<h1 align="center"> Hello, stranger.</h1>
 
 ###
 
 
-<h3 align="left">🛠 Language and tools</h3>
+<h3 align="left">Languages and tools</h3>
 
 ###
 <div align="left">
@@ -58,7 +58,7 @@
 ###
 ###
 
-<h3 align="left">🔥   My Stats :</h3>
+<h3 align="left">My Statistics :</h3>
 
 ###
 
