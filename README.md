@@ -9,11 +9,6 @@
 
 ###
 
-<h1 align="center"> Hello, stranger.</h1>
-
-###
-
-
 <h3 align="left">Languages and tools</h3>
 
 ###
